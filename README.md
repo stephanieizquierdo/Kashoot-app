@@ -1,4 +1,4 @@
-# Trabajo Practico 2 - KASHOOT
-tp2 algoritmos 3 en java
+# Trabajo Practico Final - KASHOOT
+Trabajo Practico final de algoritmos y programación III 75.07
 
 
